@@ -7,6 +7,7 @@
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "axios": "^0.19.2",
     "lodash": "^4.17.15",
     "react": "^16.13.1",
@@ -22,6 +23,18 @@
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1"
 >>>>>>> b30d532... Initialize project using Create React App
+=======
+    "axios": "^0.19.2",
+    "lodash": "^4.17.15",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-redux": "^7.2.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "3.4.1",
+    "redux": "^4.0.5",
+    "redux-form": "^8.3.5",
+    "redux-thunk": "^2.3.0"
+>>>>>>> 72c27a8... React Stream client - basic CRUD example using react-redux
   },
   "scripts": {
     "start": "react-scripts start",
